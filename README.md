@@ -93,21 +93,18 @@ The best model was deployed manually, with an Azure Container Instance. Authenti
 ### Step 4. Enable Logging
 Although Application Insights can be enabled manually when the model is deployed, the project requested to enable it through code, once the model was deployed.  
 
-This is the deployed model with Application Insights disabled.  
-![Application Insights 1](images/4.%20Enable%20Login/1_AppInsights_Disabled.png)
-
 This is the execution of the script to enable Application Insights.  
-![Application Insights 2](images/4.%20Enable%20Login/2_Run_enable_script.png)
+![Application Insights 1](images/4.%20Enable%20Login/2_Run_enable_script.png)
 
 This is the deployed model with Application Insights enabled.  
-![Application Insights 3](images/4.%20Enable%20Login/3_AppInsights_Enabled.png)
+![Application Insights 2](images/4.%20Enable%20Login/3_AppInsights_Enabled.png)
 
 This is the execution of the script to produce the logging output.  
-![Application Insights 4](images/4.%20Enable%20Login/4_Logs_1.png)
-![Application Insights 5](images/4.%20Enable%20Login/5_Logs_2.png)
+![Application Insights 3](images/4.%20Enable%20Login/4_Logs_1.png)
+![Application Insights 4](images/4.%20Enable%20Login/5_Logs_2.png)
 
 This is the Application Insights Dashboard.  
-![Application Insights 6](images/4.%20Enable%20Login/6_Application_Insights.png)
+![Application Insights 5](images/4.%20Enable%20Login/6_Application_Insights.png)
 
 
 ### Step 5. Swagger Documentation
