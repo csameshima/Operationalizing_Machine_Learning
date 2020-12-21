@@ -177,6 +177,7 @@ Some suggestions to improve the project are:
 
 
 ## Screen Recording
-This is the link to the screen recording of the project.  
-https://www.youtube.com/watch?v=Wp1VvHod4EE&feature=youtu.be
+These are the links to the screen recordings of the project.  
+* [Summary (4 minutes) with required content](https://youtu.be/4ZLkuhn9riQ)
+* [Complete Process (25 minutes)](https://youtu.be/Wp1VvHod4EE)
 
