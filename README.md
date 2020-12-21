@@ -157,11 +157,12 @@ This is the Bankmarketing dataset, the AutoML module, and the Published Pipeline
 ![Pipeline 3](images/7.%20Pipeline/3_Dataset_and_AutoML_model.png)
 
 This is the Jupyter notebook showing the Use RunDetails widget.  
-![Pipeline 4](images/7.%20Pipeline/4_Pipeline_run.png)
+![Pipeline 4](images/7.%20Pipeline/published_pipeline_run_widget_1.png)
+![Pipeline 5](images/7.%20Pipeline/published_pipeline_run_widget_2.png)
 
 This is the scheduled run in Azure ML Studio.  
-![Pipeline 5](images/7.%20Pipeline/5_Pipeline_completion.png)
-![Pipeline 6](images/7.%20Pipeline/6_Pipeline_completion.png)
+![Pipeline 6](images/7.%20Pipeline/5_Pipeline_completion.png)
+![Pipeline 7](images/7.%20Pipeline/6_Pipeline_completion.png)
 
 
 
